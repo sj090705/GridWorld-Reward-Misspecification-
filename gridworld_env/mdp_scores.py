@@ -1,6 +1,5 @@
 """
 mdp_scores.py — compute MDP-theoretic scores from GridWorld experiment results
-and ask Claude to explain what the numbers mean.
 
 Usage (from GridWorld-main/):
     python mdp_scores.py
